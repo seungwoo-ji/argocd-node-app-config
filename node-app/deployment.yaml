@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: 116376195/examplenode-dev:7
+          image: 116376195/examplenode-dev:8
           ports:
             - containerPort: 3000
